@@ -8,9 +8,10 @@ import imgPlatoDeComida from '../assets/Platodecomida.jpg';
 import imgPlatoDeComida2 from '../assets/Platodecomida2.jpg';
 import imgPlatoDeComida3 from '../assets/Platodecomida3.jpg';
 
+// Importaciones del Menú (Nombres y extensiones exactas)
 import imgAsadotira from '../assets/asadotira.jpg';
 import imgBifechorizo from '../assets/bifechorizo.jpg';
-import imgBluecheeseburger from '../assets/bluecheeseburger.jpg';
+import imgBluecheeseburger from '../assets/bluecheseeburger.jpg'; // Corregido: bluecheseeburger
 import imgBurgerbrasa from '../assets/burgerbrasa.jpg';
 import imgBurgertrufada from '../assets/burgertrufada.jpg';
 import imgCintasragu from '../assets/cintasragu.jpg';

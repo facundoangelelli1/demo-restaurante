@@ -1,5 +1,5 @@
 export const CONTACT_INFO = {
-  whatsappNumber: "5491123456789",
+  whatsappNumber: "5493516807135",
   phone: "+5493516807135",
   email: "reservas@demo-brasa.com",
   instagram: "@brasa.demo",
